@@ -1,0 +1,4 @@
+To run test in parallel:
+Webdriver has to support parallel execution, for this we use ThreadLocal java class
+Thread Local duplicates Driver object to run tests in parallel
+synchronized keyword in method signature

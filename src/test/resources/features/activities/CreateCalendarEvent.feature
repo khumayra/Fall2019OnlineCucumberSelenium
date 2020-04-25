@@ -24,4 +24,4 @@
     Then user click on save and close button
     And user verifies new calendar event was created successfully
       | description | On this meeting we discuss what went well, what went wrong and what can be improved |
-      | title       | Sprint Retrospective
+      | title       | Sprint Retrospective                                                                |
